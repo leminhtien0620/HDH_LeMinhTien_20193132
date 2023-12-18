@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "process.h": "c",
-        "interrupt.h": "c"
-    }
-}
